@@ -13,7 +13,7 @@ Automatically sync your [Omarchy](https://omarchy.dev) theme to [Zen Browser](ht
 
 > Switch themes in Omarchy → Zen updates automatically
 
-![](preview.gif)
+![](assets/preview.gif)
 
 ## Screenshots
 
